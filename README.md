@@ -8,6 +8,8 @@ My entry for the [Absurd Micro-Startup Pitch-Off](https://make.fun) on make.fun 
 
 ## The entry
 
+> A brokerage that rents your agent's unused context window to other agents at a cent per thousand tokens: your agent sleeps, the meter runs, we take 15%.
+
 `main.ts` writes the pitch to `/output/entry.txt` when run with Node 22:
 
 ```sh
